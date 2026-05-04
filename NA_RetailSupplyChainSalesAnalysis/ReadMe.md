@@ -18,3 +18,9 @@ It is an FP20 Analytics Challenge 10. The challenge tasks you to dissect key per
 ---------------------------------------------------------------------------------------------------
 
 Tool used **Power BI**!
+
+<img width="851" height="463" alt="image" src="https://github.com/user-attachments/assets/a472ad1a-ecdc-4d76-ab06-0b99e267a785" />
+<br><br>
+<img width="843" height="459" alt="image" src="https://github.com/user-attachments/assets/4d5ca030-f2bd-442a-b5b3-3e52532256e9" />
+
+
