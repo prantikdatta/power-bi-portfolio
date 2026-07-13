@@ -21,7 +21,10 @@ The objective was to:
 
 ## Report Preview
 
-(Add screenshot here)
+<img width="156" height="103" alt="image" src="https://github.com/user-attachments/assets/ae2ffa5b-99d0-4e95-b0f5-647886eb0763" />
+
+<img width="398" height="334" alt="report1" src="https://github.com/user-attachments/assets/348e6f73-7add-48f4-8e64-40f052e7ba81" />
+
 
 ## Notes
 
