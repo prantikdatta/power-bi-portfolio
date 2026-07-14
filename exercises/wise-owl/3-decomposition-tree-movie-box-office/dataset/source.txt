@@ -1,0 +1,5 @@
+Original dataset provided as part of the Wise Owl Microsoft Power BI exercise.
+
+This repository is intended for educational and portfolio purposes only.
+
+If redistribution is not permitted, remove the PBIX file before publishing and include instructions for users to obtain the dataset from the original source.
